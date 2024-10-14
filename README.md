@@ -5,4 +5,4 @@ This project does the following:
 2. Data Cleaning is done 
 3. Visualisation is done using the Matplotlib library and according Data Analysis is done.
 
-I have uploaded the dataset file (file name is housing.xlsx) and Python codes file (file name is project_python_advanced.ipynb)with analysis.
+Raw data can be seen in the dataset file (file name is housing.xlsx). Analysis can be seen in the Python codes file (file name is project_python_advanced.ipynb).
